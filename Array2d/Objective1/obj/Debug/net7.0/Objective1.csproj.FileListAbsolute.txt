@@ -1,0 +1,14 @@
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\Двумерные массивы\Array2d\Objective1\bin\Debug\net7.0\Objective1.exe
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\Двумерные массивы\Array2d\Objective1\bin\Debug\net7.0\Objective1.deps.json
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\Двумерные массивы\Array2d\Objective1\bin\Debug\net7.0\Objective1.runtimeconfig.json
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\Двумерные массивы\Array2d\Objective1\bin\Debug\net7.0\Objective1.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\Двумерные массивы\Array2d\Objective1\bin\Debug\net7.0\Objective1.pdb
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\Двумерные массивы\Array2d\Objective1\obj\Debug\net7.0\Objective1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\Двумерные массивы\Array2d\Objective1\obj\Debug\net7.0\Objective1.AssemblyInfoInputs.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\Двумерные массивы\Array2d\Objective1\obj\Debug\net7.0\Objective1.AssemblyInfo.cs
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\Двумерные массивы\Array2d\Objective1\obj\Debug\net7.0\Objective1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\Двумерные массивы\Array2d\Objective1\obj\Debug\net7.0\Objective1.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\Двумерные массивы\Array2d\Objective1\obj\Debug\net7.0\refint\Objective1.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\Двумерные массивы\Array2d\Objective1\obj\Debug\net7.0\Objective1.pdb
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\Двумерные массивы\Array2d\Objective1\obj\Debug\net7.0\Objective1.genruntimeconfig.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\Двумерные массивы\Array2d\Objective1\obj\Debug\net7.0\ref\Objective1.dll
